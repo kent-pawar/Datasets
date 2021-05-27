@@ -1,6 +1,11 @@
-Student_name,Subject,Marks
+student_name,subject,marks
 A,MATHS,50
 B,MATHS,20
 C,MATHS,80
 D,MATHS,35
 E,MATHS,90
+A,SCI,40
+B,SCI,50
+C,SCI,90
+D,SCI,55
+E,SCI,60
