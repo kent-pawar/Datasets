@@ -1,4 +1,4 @@
-  {
+  '{
    "firstName": "Joe",
    "lastName": "Jackson",
    "gender": "male",
@@ -11,4 +11,4 @@
    "phoneNumbers": [
        { "type": "home", "number": "7349282382" }
    ]
-}
+}'
