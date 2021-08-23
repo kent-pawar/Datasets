@@ -1,6 +1,4 @@
-'{
-   "x":[
-      {
+  {
    "firstName": "Joe",
    "lastName": "Jackson",
    "gender": "male",
@@ -14,5 +12,3 @@
        { "type": "home", "number": "7349282382" }
    ]
 }
-      ]
-}'
