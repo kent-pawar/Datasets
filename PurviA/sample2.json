@@ -1,4 +1,6 @@
-x='{
+'{
+   "x":[
+      {
    "firstName": "Joe",
    "lastName": "Jackson",
    "gender": "male",
@@ -11,4 +13,6 @@ x='{
    "phoneNumbers": [
        { "type": "home", "number": "7349282382" }
    ]
+}
+      ]
 }'
