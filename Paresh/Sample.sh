@@ -2,4 +2,4 @@
 a=10
 b=20
 sum = $(( $a + $b ))
-echo"Sum is: $sum"
+echo"Sum is:$sum"
